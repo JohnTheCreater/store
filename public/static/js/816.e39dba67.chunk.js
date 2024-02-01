@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[816],{816:(e,s,t)=>{e.exports=t.p+"static/media/OTG_and_memorycards.5fd67e3e9fe0aa872cb5.jpg"}}]);

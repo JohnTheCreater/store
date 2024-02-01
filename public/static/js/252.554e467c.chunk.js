@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[252],{252:(e,s,t)=>{e.exports=t.p+"static/media/strawberry.1e480fbd9bfaa07a3e18.jpg"}}]);

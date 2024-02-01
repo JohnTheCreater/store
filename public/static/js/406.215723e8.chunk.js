@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[406],{406:(e,s,t)=>{e.exports=t.p+"static/media/pendrive.0a21024d30d000fc2f53.jpg"}}]);

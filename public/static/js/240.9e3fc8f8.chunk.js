@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[240],{240:(e,s,t)=>{e.exports=t.p+"static/media/grapes.123be1b4f188a26e505e.jpg"}}]);

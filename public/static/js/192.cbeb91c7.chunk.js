@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[192],{192:(e,s,t)=>{e.exports=t.p+"static/media/nike.c4be589ae4311e4eff82.jpg"}}]);

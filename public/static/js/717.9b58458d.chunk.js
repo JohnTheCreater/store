@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[717],{717:(e,s,t)=>{e.exports=t.p+"static/media/oranges.fb9fd5033fc8a0d80cdc.jpg"}}]);

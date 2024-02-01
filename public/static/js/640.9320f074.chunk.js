@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[640],{640:(e,s,t)=>{e.exports=t.p+"static/media/apple-1282241_1920.4f1e275fdc75f5c51d45.jpg"}}]);

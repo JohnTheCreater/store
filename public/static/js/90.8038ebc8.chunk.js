@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktest=self.webpackChunktest||[]).push([[90],{90:(e,s,t)=>{e.exports=t.p+"static/media/macbook-459196_1920.21f46d8a6133d992205c.jpg"}}]);
