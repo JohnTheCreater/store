@@ -6,7 +6,7 @@ const app=express()
 
 app.use(cors());
 app.use(express.json())
-app.use('/.netlify/functions/api', route); // path must route to lambda
+app.use('/api',route)
 app.use( express.static(path.join(__dirname, './public')));
 
 const PORT =process.env.PORT||2000
